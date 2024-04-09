@@ -1,18 +1,18 @@
 //
-//  SearchHistory.swift
+//  LikedSongs.swift
 //  TylorSwift
 //
-//  Created by Apple on 09/04/24.
+//  Created by Apple on 10/04/24.
 //
 
 import SwiftUI
 
-struct SearchHistory: View {
+struct LikedSongs: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    SearchHistory()
+    LikedSongs()
 }
